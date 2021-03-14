@@ -10,7 +10,6 @@ STARTUP_FILE = "std-startup.xml"
 BOT_PREFIX = ('!')
 
 
-
 channel_name = 'CHANNELNAME'
 token = 'BOT TOKEN'
 
