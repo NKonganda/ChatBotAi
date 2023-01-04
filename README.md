@@ -1,4 +1,4 @@
-# RoboLinkChatBotAi
+# ChatBotAi
 Add file called std-startup.xml with the code:
 
 <aiml version="1.0.1" encoding="UTF-8">
